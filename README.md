@@ -4,7 +4,7 @@ A C++ console application that stores volunteer records and finds volunteers by 
 
 **Course:** CAP455: Object-Oriented Programming using C++ (MCA), Session 2026-27
 **Project phase:** CA1, Design and Create (Units I-II)
-**Student:** [Your name]  |  **Roll number:** [Your roll number]  |  **Faculty:** [Faculty name]
+**Student:** Mrigendra Singh  |  **Roll number:** 68  |  **Faculty:** Adarsh Singh
 
 ---
 
@@ -137,7 +137,3 @@ The test table (normal, invalid and boundary cases) is in the CA1 report under `
 /tests   test table and screenshots
 README.md
 ```
-
-## Academic integrity
-
-This is individual work. [State exactly which books, online references or AI tools you used and for what, or write "None". The course requires this disclosure, and you must be able to explain and modify every line of code.]

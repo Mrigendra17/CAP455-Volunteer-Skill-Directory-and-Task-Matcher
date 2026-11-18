@@ -4,7 +4,7 @@ A C++ console application that stores volunteer records and finds volunteers by 
 
 **Course:** CAP455: Object-Oriented Programming using C++ (MCA), Session 2026-27
 **Project phase:** CA1, Design and Create (Units I-II)
-**Student:** Mrigendra Singh  |  **Roll number:** 68  |  **Faculty:** Adarsh Singh
+**Student:** Mrigendra Singh |  **Roll number:** 68  |  **Faculty:** Adarsh Singh
 
 ---
 

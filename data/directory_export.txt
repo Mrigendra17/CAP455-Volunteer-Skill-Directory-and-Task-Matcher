@@ -1,0 +1,22 @@
+VOLUNTEER SKILL DIRECTORY - DATA EXPORT
+
+===== VOLUNTEERS (2) =====
+
+Volunteer ID: 1
+Name: Mrigendra singh
+Age: 21
+Contact: 9302345267
+Skills: Coding , Cocking
+
+Volunteer ID: 2
+Name: Rounak
+Age: 22
+Contact: 7894673432
+Skills: Dancing
+
+===== TASKS (1) =====
+
+Task ID: 1
+Title: Help for party
+Required Skill: Cocking
+Volunteers Needed: 2
